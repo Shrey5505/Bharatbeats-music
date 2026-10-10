@@ -1,0 +1,19 @@
+{
+  "name": "BharatBeats — Indian music, openly",
+  "short_name": "BharatBeats",
+  "description": "Openly licensed recordings, Indian radio and podcasts.",
+  "start_url": "/bharatbeats-music/",
+  "scope": "/bharatbeats-music/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#090b0e",
+  "theme_color": "#090b0e",
+  "icons": [
+    {
+      "src": "/bharatbeats-music/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
